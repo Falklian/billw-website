@@ -50,7 +50,7 @@
           </div>
           <div class="basis-full sm:basis-1/2 md:basis-auto mt-4 md:mt-0">
             <p class="font-bold">E-mail</p>
-            <p><a href="mailto:me@billw.dev" class="hover:text-emerald-600">me@billw.dev</a></p>
+            <p><a href="mailto:bill@billw.dev" class="hover:text-emerald-600">bill@billw.dev</a></p>
           </div>
         </div>
       </Transition>
