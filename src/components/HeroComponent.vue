@@ -45,8 +45,12 @@
             <p>309-749-5544</p>
           </div>
           <div class="basis-full sm:basis-1/2 md:basis-auto mt-4 md:mt-0">
-            <p class="font-bold">Website</p>
-            <p><a href="https://billw.dev" class="hover:text-emerald-600">billw.dev</a></p>
+            <p class="font-bold">Resume</p>
+            <p>
+              <a href="https://www.dropbox.com/s/knxw5hd78leoo1r/wkw-resume.docx?dl=0" class="hover:text-emerald-600">
+                Word Doc
+              </a>
+            </p>
           </div>
           <div class="basis-full sm:basis-1/2 md:basis-auto mt-4 md:mt-0">
             <p class="font-bold">E-mail</p>
