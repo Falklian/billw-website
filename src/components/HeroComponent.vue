@@ -41,6 +41,7 @@
             <a
               href="https://www.google.com/maps/search/?api=1&query=Rock+Island%2C%20IL"
               class="hover:text-emerald-600"
+              target="_blank"
             >
               <p>Rock Island, IL</p>
             </a>
