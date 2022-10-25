@@ -38,11 +38,11 @@
         >
           <div class="basis-full sm:basis-1/2 md:basis-auto">
             <p class="font-bold">Location</p>
-            <p>Rock Island, IL</p>
+            <a href="https://www.google.com/maps/search/?api=1&query=Rock+Island%2C%20IL"><p>Rock Island, IL</p></a>
           </div>
           <div class="basis-full sm:basis-1/2 md:basis-auto mt-4 sm:mt-0">
             <p class="font-bold">Mobile</p>
-            <p>309-749-5544</p>
+            <a href="tel:13097495544"><p>309-749-5544</p></a>
           </div>
           <div class="basis-full sm:basis-1/2 md:basis-auto mt-4 md:mt-0">
             <p class="font-bold">Resume</p>
