@@ -53,7 +53,7 @@
           <div class="basis-full sm:basis-1/2 md:basis-auto mt-4 md:mt-0">
             <p class="font-bold">Resume</p>
             <p>
-              <a href="https://www.dropbox.com/s/knxw5hd78leoo1r/wkw-resume.docx?dl=0" class="hover:text-emerald-600">
+              <a href="https://www.dropbox.com/scl/fi/pe6py2ix9ex4pabhc8v2i/wkw-resume.docx?rlkey=inssnpz3jkqp2hdrgkxnscp7x&st=8jqmpxwa&dl=0" class="hover:text-emerald-600">
                 Word Doc
               </a>
             </p>
